@@ -1,3 +1,12 @@
- "query": "apple",
+{
+  "query": "apple",
   "results": [
     { "ticker": "AAPL", "name": "Apple Inc.", "exchange": "NASDAQ" }
+    { "ticker": "AAPL", "name": "Apple Inc.", "exchange": "NASDAQ" },
+    { "ticker": "MSFT", "name": "Microsoft Corp.", "exchange": "NASDAQ" },
+    { "ticker": "GOOGL", "name": "Alphabet Inc.", "exchange": "NASDAQ" },
+    { "ticker": "AMZN", "name": "Amazon.com Inc.", "exchange": "NASDAQ" },
+    { "ticker": "TSLA", "name": "Tesla Inc.", "exchange": "NASDAQ" },
+    { "ticker": "NVDA", "name": "NVIDIA Corp.", "exchange": "NASDAQ" }
+  ]
+}
