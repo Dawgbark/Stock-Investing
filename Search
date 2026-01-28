@@ -1,0 +1,3 @@
+ "query": "apple",
+  "results": [
+    { "ticker": "AAPL", "name": "Apple Inc.", "exchange": "NASDAQ" }
